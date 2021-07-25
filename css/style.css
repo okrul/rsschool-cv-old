@@ -1,1 +1,47 @@
-/*FONTS*/
+body {
+    width: 1000px;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 1;
+}
+
+aside {
+    width: 25%;
+    padding-bottom: 20px;
+} 
+
+.name_and_photo{
+    text-align: center;
+}
+
+.photo {
+    width: 100%;
+} 
+
+main {
+    padding: 20px 0px 20px 50px;
+    width: 65%;
+ }
+
+ ul {
+    line-height: 1.5;
+}
+
+ header {
+
+    width: 100%;
+    height: 50px;
+    background-color: #333;
+}
+
+footer {
+
+    width: 100%;
+    height: 50px;
+    flex: 0 0 auto;
+    background-color: #333;
+
+}
+
