@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     line-height: 1;
+    list-style: none;
 }
 
 aside {
@@ -45,3 +46,7 @@ footer {
 
 }
 
+.contacts {
+    list-style: none;
+    line-height: 1;
+}
