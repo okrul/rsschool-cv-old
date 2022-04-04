@@ -1,1 +1,1 @@
-https://okrul.github.io/rsschool-cv/
+https://okrul.github.io/rsschool-cv-old/
